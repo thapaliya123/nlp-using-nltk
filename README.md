@@ -58,3 +58,6 @@ wrappers for industrial-strength NLP libraries, and an active discussion forum.
     - Browse and select nltk book module
     - Click Download
     
+# References
+- https://www.nltk.org/
+- https://www.analyticsvidhya.com/blog/2021/07/nltk-a-beginners-hands-on-guide-to-natural-language-processing/
